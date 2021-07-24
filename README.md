@@ -1,0 +1,1 @@
+This project was created as per an employer's demand. Here a dynamic website https://www.brookdale.com/ is scraped using beautiful soup and selenium. All the independent living and assisted living location and other relevant data from each 50 US states are scraped and put into individual .csv files
